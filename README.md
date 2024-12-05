@@ -8,11 +8,12 @@ Business &amp; Marketing Analytics Portfolio
 - Identified key predictors (e.g., demographic and external scores) to improve credit risk assessment.
 - Delivered business recommendations to enhance financial inclusion and reduce loan defaults.
 
-![](https://github.com/anaiscorral/Anais_Portfolio/blob/main/Findings.png)
 ### Key predictors we used for modeling (highest correlation).
+![](https://github.com/anaiscorral/Anais_Portfolio/blob/main/Findings.png)
 
-![](https://github.com/anaiscorral/Anais_Portfolio/blob/main/Findings%202.png)
 ### Client demographics, focusing on lower risk profiles. To be able to identify them.
+![](https://github.com/anaiscorral/Anais_Portfolio/blob/main/Findings%202.png)
 
-![](https://github.com/anaiscorral/Anais_Portfolio/blob/main/Findings%203.png)
 ### Lower risk profile client demographics.
+![](https://github.com/anaiscorral/Anais_Portfolio/blob/main/Findings%203.png)
+

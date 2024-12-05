@@ -9,3 +9,7 @@ Business &amp; Marketing Analytics Portfolio
 - Delivered business recommendations to enhance financial inclusion and reduce loan defaults.
 
 ![](https://github.com/anaiscorral/Anais_Portfolio/blob/main/Findings.png)
+
+![](https://github.com/anaiscorral/Anais_Portfolio/blob/main/Findings%202.png)
+
+![](https://github.com/anaiscorral/Anais_Portfolio/blob/main/Findings%203.png)

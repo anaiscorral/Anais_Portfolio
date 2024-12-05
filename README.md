@@ -7,3 +7,5 @@ Business &amp; Marketing Analytics Portfolio
 - Implemented and compared models (Logistic Regression, Random Forest, Gradient Boosting) using metrics like AUC, precision, and recall.
 - Identified key predictors (e.g., demographic and external scores) to improve credit risk assessment.
 - Delivered business recommendations to enhance financial inclusion and reduce loan defaults.
+
+(https://github.com/anaiscorral/Anais_Portfolio/blob/main/Findings.png)

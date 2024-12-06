@@ -28,7 +28,8 @@ Business &amp; Marketing Analytics Portfolio
 - Evaluated models with metrics like MSE and R-squared to ensure accuracy.
 - Visualized coefficient shrinkage and predictor importance to highlight the impact of regularization.
 
-
+### Correlation Matrix. This will help determine which variables are the most or less important.
+![](https://github.com/anaiscorral/Pernalized-Regression-Machine-Learning/blob/main/p%20regression.png)
 
 
 

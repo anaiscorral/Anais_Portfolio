@@ -22,7 +22,7 @@
 ![Findings 3](https://raw.githubusercontent.com/anaiscorral/Anais_Portfolio/main/Findings%203.png)  
 
 
-[Project 2: iFood | Penalized Regression](https://github.com/anaiscorral/Penalized-Regression-Machine-Learning)
+[Project 2: iFood - Penalized Regression](https://github.com/anaiscorral/Penalized-Regression-Machine-Learning)
 
 - Conducted data cleaning and preprocessing for modeling readiness.
 - Selected key predictors to enhance model performance and reduce noise.

@@ -9,12 +9,15 @@
 - Delivered business recommendations to enhance financial inclusion and reduce loan defaults.
 
 **Key predictors we used for modeling (highest correlation).**
+
 ![](https://github.com/anaiscorral/Anais_Portfolio/blob/main/Findings.png)
 
 **Client demographics, focusing on lower risk profiles. To be able to identify them.**
+
 ![](https://github.com/anaiscorral/Anais_Portfolio/blob/main/Findings%202.png)
 
 **Lower risk profile client demographics.**
+
 ![](https://github.com/anaiscorral/Anais_Portfolio/blob/main/Findings%203.png)
 
 
@@ -29,6 +32,7 @@
 - Visualized coefficient shrinkage and predictor importance to highlight the impact of regularization.
 
 **Correlation Matrix. This will help determine which variables are the most or less important.**
+
 ![](https://github.com/anaiscorral/Pernalized-Regression-Machine-Learning/blob/main/p%20regression.png)
 
 

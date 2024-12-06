@@ -11,6 +11,8 @@
 **Key predictors we used for modeling (highest correlation).**
 
 ![](Findings.png)
+![Findings](https://raw.githubusercontent.com/anaiscorral/Anais_Portfolio/main/Findings.png)
+
 
 **Client demographics, focusing on lower risk profiles. To be able to identify them.**
 

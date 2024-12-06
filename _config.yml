@@ -1,5 +1,5 @@
 title: Anais Corral
-Logo: ![Logo](https://raw.githubusercontent.com/anaiscorral/Anais_Portfolio/main/docs/assets/Corral,%20Anais%20resized.jpg)
-description: Business & Marketing Analytics Portfolio
+Logo: logo: /docs/assets/Corral,%20Anais%20resized.jpg
+#description: Business & Marketing Analytics Portfolio
 #show_downloads: true
 theme: jekyll-theme-minimal

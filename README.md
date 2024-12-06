@@ -17,4 +17,19 @@ Business &amp; Marketing Analytics Portfolio
 ### Lower risk profile client demographics.
 ![](https://github.com/anaiscorral/Anais_Portfolio/blob/main/Findings%203.png)
 
+
+
+[Project 2: iFood | Penalized Regression](https://github.com/anaiscorral/Home-Credit-Default-Risk)
+
+- Conducted data cleaning and preprocessing for modeling readiness.
+- Selected key predictors to enhance model performance and reduce noise.
+- Applied Ridge and Lasso regression to address multicollinearity and optimize predictions.
+- Tuned hyperparameters using cross-validation for improved model performance.
+- Evaluated models with metrics like MSE and R-squared to ensure accuracy.
+- Visualized coefficient shrinkage and predictor importance to highlight the impact of regularization.
+
+
+
+
+
 theme: jekyll-theme-merlot

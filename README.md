@@ -17,4 +17,4 @@ Business &amp; Marketing Analytics Portfolio
 ### Lower risk profile client demographics.
 ![](https://github.com/anaiscorral/Anais_Portfolio/blob/main/Findings%203.png)
 
-theme: THEME-slate
+theme: jekyll-theme-merlot

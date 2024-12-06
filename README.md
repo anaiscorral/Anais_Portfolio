@@ -36,3 +36,15 @@
 ![](https://github.com/anaiscorral/Pernalized-Regression-Machine-Learning/blob/main/p%20regression.png)
 
 
+## Education
+
+### University of Utah, David Eccles School of Business  
+**Master of Science, Business Analytics**  
+*Salt Lake City, UT*  
+**Jan 2024 – May 2025**  
+- Relevant Courses: Stats & Predictive Analytics, Database Design, Data Mining-Algorithms, Text Analytics, Machine Learning
+
+### Brigham Young University, Marriott School of Business  
+**Bachelor of Science, Marketing**  
+*Provo, UT*  
+**Jan 2021 – Dec 2022**

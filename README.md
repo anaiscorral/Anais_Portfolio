@@ -10,17 +10,16 @@
 
 **Key predictors we used for modeling (highest correlation).**
 
-![](Findings.png)
 ![Findings](https://raw.githubusercontent.com/anaiscorral/Anais_Portfolio/main/Findings.png)
 
 
 **Client demographics, focusing on lower risk profiles. To be able to identify them.**
 
-![](https://github.com/anaiscorral/Anais_Portfolio/blob/main/Findings%202.png)
+![Findings 2](https://raw.githubusercontent.com/anaiscorral/Anais_Portfolio/main/Findings%202.png)  
 
 **Lower risk profile client demographics.**
 
-![](https://github.com/anaiscorral/Anais_Portfolio/blob/main/Findings%203.png)
+![Findings 3](https://raw.githubusercontent.com/anaiscorral/Anais_Portfolio/main/Findings%203.png)  
 
 
 [Project 2: iFood | Penalized Regression](https://github.com/anaiscorral/Penalized-Regression-Machine-Learning)
@@ -32,9 +31,9 @@
 - Evaluated models with metrics like MSE and R-squared to ensure accuracy.
 - Visualized coefficient shrinkage and predictor importance to highlight the impact of regularization.
 
-**Correlation Matrix. This will help determine which variables are the most or less important.**
+**Correlation Matrix. This will help determine which variables are the most or least important.**
 
-![](https://github.com/anaiscorral/Pernalized-Regression-Machine-Learning/blob/main/p%20regression.png)
+![Penalized Regression](https://raw.githubusercontent.com/anaiscorral/Pernalized-Regression-Machine-Learning/main/p%20regression.png)
 
 
 ## Education
